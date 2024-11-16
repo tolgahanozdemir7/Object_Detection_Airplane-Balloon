@@ -1,0 +1,5 @@
+names:
+- Airplane
+nc: 1
+train: C:/Users/Lenovo/Desktop/project_folder2/train/images
+val: C:/Users/Lenovo/Desktop/project_folder2/validation/images
